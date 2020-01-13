@@ -1,0 +1,51 @@
+<pessoas>
+	<pessoa>
+		<idade>35</idade>
+		<ocupacao>Maga</ocupacao>
+		<nome>Triss</nome>
+		<magiaslist>
+			<magias>
+				<magia>Necromancy</magia>
+				<descricao>Able to ressurect corpses to follow in battle</descricao>
+			</magias>
+			<magias>
+				<magia>Future Sight</magia>
+				<descricao>Can see a close future</descricao>
+			</magias>
+		</magiaslist>
+		</pessoa>
+		<pessoa>
+			<idade>42</idade>
+			<ocupacao>Witcher</ocupacao>
+			<nome>Geralt</nome>
+			<magiaslist>
+				<magias>
+					<magia>Aard</magia>
+					<descricao>A telekinetic wave that can stun or knock down enemies and destroy weak obstacles</descricao>
+				</magias>
+				<magias>
+					<magia>Igni</magia>
+					<descricao>A stream of fire shooting out of the user's palm</descricao>
+				</magias>
+				<magias>
+					<magia>Quen</magia>
+					<descricao>Creates a personal shield around Geralt, absorbing all of the damage and deflecting back at the enemy</descricao>
+				</magias>
+			</magiaslist>
+			</pessoa>
+			<pessoa>
+				<idade>50</idade>
+				<ocupacao>Witcher</ocupacao>
+				<nome>Vesemir</nome>
+				<magiaslist>
+					<magias>
+						<magia>Eagle Eye</magia>
+						<descricao>Enhance vision to find weak spots granting critical hits</descricao>
+					</magias>
+					<magias>
+						<magia>Pierce Force</magia>
+						<descricao>For a short period of time, ignores 25 percent of an enemy's amor</descricao>
+					</magias>
+				</magiaslist>
+			</pessoa>
+		</pessoas>
